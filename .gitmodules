@@ -1,15 +1,15 @@
-[submodule "SRE-Complete-Demos/cost-optimization"]
-	path = SRE-Complete-Demos/cost-optimization
+[submodule "cost-optimization"]
+	path = cost-optimization
 	url = https://github.com/kishoreismac/Cost-Optimization-App
-[submodule "SRE-Complete-Demos/octopets-demo"]
-	path = SRE-Complete-Demos/octopets-demo
+[submodule "octopets-demo"]
+	path = octopets-demo
 	url = https://github.com/kishoreismac/k-octopet
-[submodule "SRE-Complete-Demos/proactive-reliability-demo"]
-	path = SRE-Complete-Demos/proactive-reliability-demo
+[submodule "proactive-reliability-demo"]
+	path = proactive-reliability-demo
 	url = https://github.com/kishoreismac/proactive-reliability
-[submodule "SRE-Complete-Demos/sre-demo-docs"]
-	path = SRE-Complete-Demos/sre-demo-docs
+[submodule "sre-demo-docs"]
+	path = sre-demo-docs
 	url = https://github.com/kishoreismac/sre_demo
-[submodule "SRE-Complete-Demos/security-demo-app"]
-	path = SRE-Complete-Demos/security-demo-app
+[submodule "security-demo-app"]
+	path = security-demo-app
 	url = https://github.com/kishoreismac/Security-Demo-App
